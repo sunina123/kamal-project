@@ -61,6 +61,7 @@ public class Program {
 				driver.findElement(By.xpath("//a[text()='Friends']")).click();
 	
 				//new coment
+                                //checking
 		
 
 	}
